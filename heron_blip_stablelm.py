@@ -96,7 +96,7 @@ class HeronBlipStableLMBasedVLM:
 
                 shutil.copyfile(
                     os.path.join(input_dir, image),
-                    os.path.join(output_dir, output + os.path.splitext(image)[1])
+                    output_path
                 )
             
             elif classify:
