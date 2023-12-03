@@ -2,7 +2,7 @@
 Image classification and captioning tools using VLMs (Stable VLM, Heron)
 
 ## Features
-Using VLMs(Visual Language Models), many image files can be processed at once:
+Using VLMs(Visual Language Models), many image files can be processed at once.
 
 Output types(multiple selections supported):
 - `--save_text`: Save image file name and its corresponding result to text file.
