@@ -68,7 +68,7 @@ model.run_tools(
 ```
 
 Result:
-One folder name is "この写っている画像を下に、質問に答えてください。" for the lion image.
+One folder name is "この写っている画像を下に、質問に答えてください。" for the lion image, but the images of the other animals are successfully classified into correct name folder.
 ![image](https://github.com/keisuke-okb/vlm-image-tools/assets/70097451/1fb0c853-14fb-4748-9a6e-004adacb50e3)
 
 # References
